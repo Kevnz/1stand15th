@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Kevnz/1stand15th.png?branch=master)](https://travis-ci.org/Kevnz/1stand15th)
 # 1stand15th
 
 Get the 1st and 15th of the month for a year, or the 1st and 15th so far for the current year.
