@@ -1,6 +1,6 @@
 {
   "name": "1stand15th",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "Get the 1st and the 15th of a year or the 1st and 15th up to the current date",
   "main": "index.js",
   "scripts": {
